@@ -1,8 +1,8 @@
 # **We Love** :a:ngular .
-## Generic Angular App
+## Generic :a:ngular App
 # :wink: Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`;
 ### **How to use** :thinking: : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+This project was generated with [:a:ngular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
 
@@ -22,10 +22,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# What is Generic Angular App?
+To get more help on the :a:ngular CLI use `ng help` or go check out the [:a:ngular CLI Overview and Command Reference](https://angular.io/cli) page.
+# What is Generic :a:ngular App?
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/docs/github.png?raw=true)
-## **This is a regular angular app created with modules not standalone, it can be converted to standalone**.
+## **This is a regular :a:ngular app created with modules not standalone, it can be converted to standalone**.
 
 - **_Use this project as a base for you own project, there is no magic in it_**, 
 - **_but i have provided the common services that you may want to use_**.
@@ -46,11 +46,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Please use interfaces for the objects that you will use more than 1 time and import them.
 
 ## Reslovers :mag_right:
-- the user is navigating through the application before Angular has rendered the desired page; that makes it; a navigation blocker, as it blocks the navigation until it's resolved.
+- :a:ngular Resolver  is used for pre-fetching some of the data when the user is navigating from one route to another. It can be defined as a smooth approach for enhancing user experience by loading data before the user navigates to a particular component.
+- the user is navigating through the application before :a:ngular has rendered the desired page; that makes it; a navigation blocker, as it blocks the navigation until it's resolved.
 
 ## Shared Components :open_hands:
 
-- Shared Components are angular regular components that can be used for separating view components and register them whereever you want inside the app.
+- Shared Components are :a:ngular regular components that can be used for separating view components and register them whereever you want inside the app.
 - **Example**:
 
 |     Header             | side-nav                 |
