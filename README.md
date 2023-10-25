@@ -1,5 +1,5 @@
-# Generic Angular App
-
+## Generic Angular App
+# Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
@@ -42,4 +42,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Interfaces 
 - Please use interfaces for the objects that you will use more than 1 time and import them.
 
-##
+## Reslovers
+- the user is navigating through the application before Angular has rendered the desired page; that makes it; a navigation blocker, as it blocks the navigation until it's resolved.
+
+## Shared Components
