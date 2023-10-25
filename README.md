@@ -59,7 +59,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | header.component.scss  | side-nav.component.scss  |
 | header.component.html  | side-nav.component.html  |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+- **P.S** ` **_shared components are regular classes components, the whole idea is to seperate your work for modularity and reusability_** `
