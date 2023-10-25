@@ -51,8 +51,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Shared Components :open_hands:
 
 - Shared Components are angular regular components that can be used for separating view components and register them whereever you want inside the app.
-- **Example**:  |     Header    | side-nav |
-                | ------------- | ------------- |
-                | header.component.ts  | side-nav.component.ts  |
-                | header.component.scss  | side-nav.component.scss  | 
-                | header.component.html  | side-nav.component.html  | 
+- **Example**:  
+|     Header             | side-nav                 |
+| ---------------------- | ------------------------ |
+| header.component.ts    | side-nav.component.ts    |
+| header.component.scss  | side-nav.component.scss  | 
+| header.component.html  | side-nav.component.html  | 
