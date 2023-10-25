@@ -42,10 +42,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - `core/auto-login/auto-login.ts` => This file should be used to detect the user is logged in or not.
 #### `And More you can generate to handle sperate functionality, `ng generate guard name/of/gaurd`; this should ask you for the guard type first `
 
-## Interfaces 
+## Interfaces :books:
 - Please use interfaces for the objects that you will use more than 1 time and import them.
 
-## Reslovers
+## Reslovers :mag_right:
 - the user is navigating through the application before Angular has rendered the desired page; that makes it; a navigation blocker, as it blocks the navigation until it's resolved.
 
-## Shared Components
+## Shared Components :open_hands:
+
+- Shared Components are angular regular components that can be used for separating view components and register them whereever you want inside the app.
+- **Example**:  |     Header    | side-nav |
+                | ------------- | ------------- |
+                | header.component.ts  | side-nav.component.ts  |
+                | header.component.scss  | side-nav.component.scss  | 
+                | header.component.html  | side-nav.component.html  | 
