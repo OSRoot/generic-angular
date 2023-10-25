@@ -1,4 +1,4 @@
-# **We Love** :a:ngular:red_circle:
+# **We Love** :a:ngular .
 ## Generic Angular App
 # :wink: Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`;
 ### **How to use** :thinking: : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
@@ -27,8 +27,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/docs/github.png?raw=true)
 ## **This is a regular angular app created with modules not standalone, it can be converted to standalone**.
 
-##### **_Use this project as a base for you own project, there is no magic in it_**, 
-##### **_but i have provided the common services that you may want to use_**.
+- **_Use this project as a base for you own project, there is no magic in it_**, 
+- **_but i have provided the common services that you may want to use_**.
 
 ## The Common Services **:yum:**
 ###### - DataService => import it in the components that will need access to the apis.
