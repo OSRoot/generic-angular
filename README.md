@@ -23,7 +23,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # What is Generic Angular App?
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/docs/github.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/docs/github.png?raw=true)
 #### `This is a regular angular app created with modules not standalone, it can be converted to standalone`.
 
 ##### Use this project as a base for you own project, there is no magic in it, 
