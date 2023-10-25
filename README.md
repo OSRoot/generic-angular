@@ -54,7 +54,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - **Example**:
 
 |     Header             | side-nav                 |
-| ---------------------- | ------------------------ |
+| :---: | :---: |
 | header.component.ts    | side-nav.component.ts    |
 | header.component.scss  | side-nav.component.scss  |
 | header.component.html  | side-nav.component.html  |
