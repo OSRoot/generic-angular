@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'animate.css';
+
+// Add the Fonts here, you can download them and add them to the assets directory,
+// and then import them as follows
+@font-face {
+    font-family: 'bold';
+    src: url('./assets/fonts/rubik/Rubik-Bold.ttf');
+}
+
+
+// apply the animations of the animate.css here , visit https://animate.style/ for more animations
+html, body, *{
+    animation: fadeIn;
+    animation-duration: 0.4s;
+    font-family: "bold";
+}
