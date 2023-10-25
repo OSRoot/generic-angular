@@ -36,7 +36,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ###### - AuthService = > This can be used if your app requires login or register.
 ###### - LocationService = > This can be used to get locations and put markers on the map.
  
-## Guards 
+## Guards **:shield:**
 - `core/auth/auth.guard.ts` => This file should be used to determine if the user is authenticated or not (login - register);
 - `core/auto-login/auto-login.ts` => This file should be used to detect the user is logged in or not.
 #### `And More you can generate to handle sperate functionality, `ng generate guard name/of/gaurd`; this should ask you for the guard type first `
