@@ -1,6 +1,6 @@
 # **We Love** :a:ngular .
 ## Generic :a:ngular App
-# :wink: Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`;
+#### :wink: **Purpose**: `To Give You A Good Idea About Best Practice architecture of the project structure`;
 ### **How to use** :thinking: : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
 This project was generated with [:a:ngular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
@@ -23,7 +23,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the :a:ngular CLI use `ng help` or go check out the [:a:ngular CLI Overview and Command Reference](https://angular.io/cli) page.
-# What is Generic :a:ngular App?
+# What is Generic :a:ngular App? :octocat:
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/docs/github.png?raw=true)
 ## **This is a regular :a:ngular app created with modules not standalone, it can be converted to standalone**.
 
