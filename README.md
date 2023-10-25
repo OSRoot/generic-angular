@@ -31,11 +31,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - **_but i have provided the common services that you may want to use_**.
 
 ## The Common Services **:yum:**
-###### - DataService => import it in the components that will need access to the apis.
-###### - MetaService => import it in every component that you will set the meta tags in for SEO and SSR.
-###### - HelpersService = > import it as utility anywhere in the app.
-###### - AuthService = > This can be used if your app requires login or register.
-###### - LocationService = > This can be used to get locations and put markers on the map.
+ - **_dataService_** => `__import it in the components that will need access to the apis.__`
+ - **_metaService_** => import it in every component that you will set the meta tags in for SEO and SSR.
+ - **_helpersService_** = > import it as utility anywhere in the app.
+ - **_authService_** = > This can be used if your app requires login or register.
+ - **_locationService_** = > This can be used to get locations and put markers on the map.
  
 ## Guards **:shield:**
 - `core/auth/auth.guard.ts` => This file should be used to determine if the user is authenticated or not (login - register);
