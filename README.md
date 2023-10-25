@@ -1,4 +1,4 @@
-# **We Love** :A: :n: :g: :u: :l: :a: :r: .
+# **We Love** :a: ngular .
 ## Generic Angular App
 # :wink: Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`;
 ### **How to use** :thinking: : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
