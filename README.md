@@ -1,6 +1,6 @@
 ## Generic Angular App
 # :wink: Purpose: `To Give You A Good Idea About Best Practice architecture of the project structure`;
-### **How to use** : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
+### **How to use** :thinking: : **_`It's prefered as a reference, you can use it in production on your own risk`_** 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
