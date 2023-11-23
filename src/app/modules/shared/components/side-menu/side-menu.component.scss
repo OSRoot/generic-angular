@@ -1,0 +1,28 @@
+.os-side-menu-container{
+    background: linear-gradient(to right, var(--dark-blue), var(--dark-red));
+    height: 100%;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    .os-side-menu{
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        width: 100%;
+        padding: 16px;
+        .os-ul-side-menu{
+            padding-top: 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: start;
+            gap: 25px;
+            li{
+                padding: 16px;
+                list-style: none;
+                color: var(--white);
+                font-size: 20px;
+                line-height: 16px;
+            }
+        }
+    }
+}

@@ -14,4 +14,10 @@ html, body, *{
     animation: fadeIn;
     animation-duration: 0.4s;
     font-family: "bold";
+
 }
+body{
+    margin: 0 !important;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

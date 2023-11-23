@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 // import { Storage } from '@ionic/storage-angular';
 import { DataService } from '../data/data.service';
-import { BehaviorSubject, Observable, catchError, from, switchMap, tap, throwError,EMPTY } from 'rxjs';
+import { BehaviorSubject, Observable,EMPTY } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
 import { HelpersService } from '../helpers/helpers.service';
